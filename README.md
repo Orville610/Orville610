@@ -51,7 +51,7 @@ I'm a passionate software developer with a focus on [your specialties, e.g., web
 
 ### 🤝 Connect with Me
 
-[![Discord](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram)](https://instagram.com/Orville610)
+[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)](https://linkedin.com/in/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/Orville610)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=wordpress)](https://neonddroid.com)
 
