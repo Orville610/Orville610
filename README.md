@@ -1,59 +1,57 @@
-<h2 align="left">Hi 👋! My name is Orville and I'm a FullStack Developer, from Indonesia 🇮🇩</h2>
+# Hi there, I'm Orville 👋
 
-###
+![Profile Banner](https://your-banner-url.com)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orville610&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Orville610&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Orville610&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+I'm a passionate software developer with a focus on [your specialties, e.g., web development, backend systems, etc.]. I love building things that make a difference, and I'm always eager to learn and explore new technologies.
 
-###
+### 🎧 Currently Listening To
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
-###
+### 🚀 About Me
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Orville610/Orville610/master/src/car.gif"  />
+- 🔭 I’m currently working on **[Your Current Project](https://github.com/yourusername/yourproject)**
+- 🌱 I’m currently learning **[Technology or Framework]**
+- 👯 I’m looking to collaborate on **[Type of Projects]**
+- 🤔 I’m looking for help with **[Challenges you’re facing]**
+- 💬 Ask me about **[Your areas of expertise]**
+- 📫 How to reach me: **[Your Email](mailto:youremail@example.com)**
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: **[Something fun about you]**
 
-###
+### 🛠️ Languages and Tools
 
-<div align="left">
-  <a href="https://discordapp.com/users/216512231679066114" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/heyy.orville/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:orville@neonddroid.my.id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
 
-###
+### 📊 GitHub Stats
 
-<div align="left">
-  <a href="https://www.neonddroid.my.id/spotify" target="_blank">
-    <img src="https://readme-dev-nu.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
-  </a>
-</div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-###
+### 🏆 My GitHub Trophies
 
-<br clear="both">
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://raw.githubusercontent.com/Orville610/Orville610/output/snake.svg" alt="Snake animation" />
+### 📈 GitHub Streak
 
-###
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Post Title 1](https://yourblog.com/post1)
+- [Post Title 2](https://yourblog.com/post2)
+- [Post Title 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram)](https://twitter.com/yourusername)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=wordpress)](https://neonddroid.com)
+
