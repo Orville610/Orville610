@@ -31,15 +31,15 @@ I'm a passionate software developer with a focus on [your specialties, e.g., web
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Orville610&show_icons=true&theme=radical)
 
 ### 🏆 My GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Orville610&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Orvillle610&theme=radical)](https://git.io/streak-stats)
 
 ### 📝 Latest Blog Posts
 
