@@ -31,7 +31,7 @@ I'm a passionate software developer with a focus on [your specialties, e.g., web
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Orville610&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Orville610&show_icons=true&theme=radical)
 
 ### 🏆 My GitHub Trophies
 
@@ -39,7 +39,7 @@ I'm a passionate software developer with a focus on [your specialties, e.g., web
 
 ### 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Orvillle610&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Orville610&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### 📝 Latest Blog Posts
 
