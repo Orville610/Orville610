@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://your-banner-url.com)
 
-I'm a passionate software developer with a focus on [your specialties, e.g., web development, backend systems, etc.]. I love building things that make a difference, and I'm always eager to learn and explore new technologies.
+I'm a passionate software developer with a focus on Web Development And Backend Systems. I love building things that make a difference, and I'm always eager to learn and explore new technologies.
 
 ### 🎧 Currently Listening To
 
@@ -11,12 +11,12 @@ I'm a passionate software developer with a focus on [your specialties, e.g., web
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **[Your Current Project](https://github.com/yourusername/yourproject)**
-- 🌱 I’m currently learning **[Technology or Framework]**
+- 🌱 I’m currently learning **[Next Js]**
 - 👯 I’m looking to collaborate on **[Type of Projects]**
 - 🤔 I’m looking for help with **[Challenges you’re facing]**
 - 💬 Ask me about **[Your areas of expertise]**
-- 📫 How to reach me: **[Your Email](mailto:youremail@example.com)**
-- 😄 Pronouns: [Your Pronouns]
+- 📫 How to reach me: **[orville@neonddroid.com](mailto:orville@neonddroid.com)**
+- 😄 Pronouns: [He/Him]
 - ⚡ Fun fact: **[Something fun about you]**
 
 ### 🛠️ Languages and Tools
