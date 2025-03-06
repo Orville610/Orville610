@@ -1,6 +1,6 @@
 # Hi there, I'm Orville 👋
 
-![Profile Banner](https://i.pinimg.com/originals/5e/d1/2b/5ed12b096ad13aab24b15aa789068fa6.gif)
+![Profile Banner](https://github.com/Orville610/Orville610/blob/master/src/Banner.gif?raw=true)
 
 I'm a passionate software developer with a focus on Web Development And Backend Systems. I love building things that make a difference, and I'm always eager to learn and explore new technologies.
 
