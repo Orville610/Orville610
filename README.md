@@ -6,7 +6,7 @@ I'm a passionate software developer with a focus on [your specialties, e.g., web
 
 ### 🎧 Currently Listening To
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/214gxyididy7y7mxrfcqdtxta)
 
 ### 🚀 About Me
 
