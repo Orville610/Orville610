@@ -31,11 +31,11 @@ I blend intuitive frontend interfaces with robust backend infrastructures. Makin
 </p>
 
 ---
+
 ### 📊 Dynamic Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orville610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Orville GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Orville610&theme=tokyonight&hide_border=true&background=0D1117" alt="Orville GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Orville610&theme=tokyonight&hide_border=true&background=0D1117" alt="Orville GitHub Streak" />
 </p>
 
 ---
