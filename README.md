@@ -1,57 +1,50 @@
-# Hi there, I'm Orville 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Orville%20Giovanni&fontSize=70&fontAlignY=35&desc=Informatics%20Student%20%7C%20Web%20Dev%20and%20SysAdmin&descAlignY=55&descAlign=50" alt="Header Banner" />
+</p>
 
-![Profile Banner](https://github.com/Orville610/Orville610/blob/master/src/Banner.gif?raw=true)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=System+Architecture+Enthusiast;Building+with+Code+and+Data;Incoming+Informatics+Student+@+Telkom+Univ" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm a passionate software developer with a focus on Web Development And Backend Systems. I love building things that make a difference, and I'm always eager to learn and explore new technologies.
+---
 
-### 🎧 Currently Listening To
+### 👨‍💻 About My Journey
+I blend intuitive frontend interfaces with robust backend infrastructures. Making the transition from building foundational skills to studying **Informatics at Telkom University**. When I'm not coding web apps with **Next.js**, I'm usually deep in a terminal configuring my **Docker** containers on **Armbian** or securing remote networks.
 
-[![Spotify](https://spotify.neonddroid.com/api/spotify)](https://open.spotify.com/user/214gxyididy7y7mxrfcqdtxta)
+- 🔭 **Current Focus:** Architecting Next.js applications and managing self-hosted cloud environments (CasaOS, Nextcloud).
+- 🌱 **Deep Diving Into:** Advanced containerization, CI/CD pipelines, and network mesh topologies (Tailscale/ZeroTier).
+- 🏅 **Certifications:** Associate Data Scientist (DigiUp) & VBL Certified.
+- ⚡ **Fuel:** Powered by intricate logic, systematic troubleshooting, and high doses of caffeine. ☕
 
-### 🚀 About Me
+---
 
-- 🔭 I’m currently working on **[Your Current Project](https://github.com/yourusername/yourproject)**
-- 🌱 I’m currently learning **[Next Js]**
-- 👯 I’m looking to collaborate on **[Type of Projects]**
-- 🤔 I’m looking for help with **[Challenges you’re facing]**
-- 💬 Ask me about **[Your areas of expertise]**
-- 📫 How to reach me: **[orville@neonddroid.com](mailto:orville@neonddroid.com)**
-- 😄 Pronouns: [He/Him]
-- ⚡ Fun fact: **[Something fun about you]**
+### 🛠️ Tech Stack & Arsenal
 
-### 🛠️ Languages and Tools
+<p align="center">
+  <strong>Languages & Frameworks</strong><br>
+  <img src="https://skillicons.dev/icons?i=js,py,react,nextjs,nodejs,tailwind&theme=dark" alt="Languages and Frameworks" />
+  <br><br>
+  <strong>Infrastructure, Data & Tools</strong><br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,mysql,githubactions,vercel,cloudflare&theme=dark" alt="Infrastructure and Tools" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+---
+### 📊 Dynamic Metrics
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Orville610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Orville GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Orville610&theme=tokyonight&hide_border=true&background=0D1117" alt="Orville GitHub Streak" width="48%" />
+</p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Orville610&show_icons=true&theme=radical)
+---
 
-### 🏆 My GitHub Trophies
+### 🤝 Let's Connect
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Orville610&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📈 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Orville610&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-- [Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
-### 🤝 Connect with Me
-
-[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/Heyy.orville)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=wordpress)](https://neonddroid.com)
-
+<p align="center">
+  <a href="https://www.rville.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/orvillegiovanni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/heyy.orville"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:orville@neonddroid.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
